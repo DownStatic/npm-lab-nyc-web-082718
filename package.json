@@ -1,0 +1,25 @@
+{
+  "name": "tesfile",
+  "version": "1.0.0",
+  "description": "learn test file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DownStatic/npm-lab-nyc-web-082718.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "CJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DownStatic/npm-lab-nyc-web-082718/issues"
+  },
+  "homepage": "https://github.com/DownStatic/npm-lab-nyc-web-082718#readme"
+}
